@@ -1,2 +1,2 @@
 # EsdrasApp
-Esdras Android App
+Esdras iOS App
